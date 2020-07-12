@@ -1,2 +1,3 @@
 # Births2015
-This dataset was from a Github profile [https://vincentarelbundock.github.io/Rdatasets/datasets.html]
+Collecting data on the amount of Childbirths in 2015
+Dataset came from Github profile [https://vincentarelbundock.github.io/Rdatasets/datasets.html]
