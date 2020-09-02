@@ -11,8 +11,6 @@ reddit_web %>%
   html_node("p._1qeIAgB0cPwnLhDF9XSiJM") %>%
   html_text()
 
-time
-
 time <- reddit_web %>%
   html_nodes("a._3jOxDPIQ0KaOWpzvSQo-1s") %>%
   html_text()
