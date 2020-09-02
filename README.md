@@ -1,6 +1,6 @@
-# Practicing R Skill
+# Practicing R 
 
-Creating visualizations in R Studio 
+Creating visualizations with open datasets
 
 Web Scrapping with Reddit Web Page
 
