@@ -1,4 +1,4 @@
-# Practing R Skill
+# Practicing R Skill
 
 Creating visualizations in R Studio 
 
